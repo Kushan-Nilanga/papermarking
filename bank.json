@@ -1,0 +1,392 @@
+[
+    {
+        "question": "Q1.1 Summary Measures",
+        "correct": "Task 1:\u00a0 Summary measure presented.\u00a0",
+        "incorrect": "Task 1:\u00a0 Summary measures not included."
+    },
+    {
+        "question": "Q1.1 FDT/HISTOGRAM OR Polygon",
+        "correct": "The Histogram presented showing percentage salary hike.",
+        "incorrect": "When generating a descriptive statistics table for \u201cPercent increase in Salary\u201d, provide all summary measures that XL \u2018Data Analysis Tool Pack\u2019 provides plus a couple of other measures such as the first and third quartiles, interquartile range, lower and upper fence, and the presence/number of outliers. What you are trying to do, is understand the \u201cPercent increase in Salary\u201d. The only way to do this is to understand all summary measures and graphical presentation of box plot and/or histogram etc."
+    },
+    {
+        "question": "Q1.1 Outlier Check",
+        "correct": null,
+        "incorrect": "You can use the Box-plot to check for the outliers.\u00a0"
+    },
+    {
+        "question": "Q1.2 Summary Table Or Graph Both (1 mark Each)\u00a0",
+        "correct": "Attrition shown using & table and visualisation. Interpretation Task 1: Reasonable explanation of the variable. But more thorough explanation would be useful.\u00a0",
+        "incorrect": "Attrition could have presented using & table and visualisation (e.g., pie chart/bar chart). Interpretation Task 1: Reasonable explanation of the variable. But more thorough explanation would be useful.\u00a0"
+    },
+    {
+        "question": "Q2.1 Job Satisfaction 11 --- change to 1\u00a0",
+        "correct": "Task 2.1 :\u00a0",
+        "incorrect": "Task 2.1 : There is an incorrect entry in Job Satisfaction entered as 11. This should have corrected as 1."
+    },
+    {
+        "question": "Q2.1 Correlation Marix",
+        "correct": "Nice to see that you have created correlation matrix of all independent variables against the dependent variable.",
+        "incorrect": "Correlation matrix of all independent variables against the dependent variable showing relationships not produced."
+    },
+    {
+        "question": "Q2.1 Scatter Plot",
+        "correct": "Scatter plots included. Interpretation Task 2.1 You must check and report for \u2018measurement error\u2019- one job satisfaction is listed as 11 (possible values are between 1 and 4).",
+        "incorrect": "Scatter plots not included.\u00a0 Interpretation Task 2.1 You must check and report for \u2018measurement error\u2019- one job satisfaction is listed as 11 (possible values are between 1 and 4)."
+    },
+    {
+        "question": "Q2.2 Assumption",
+        "correct": "Task 2.2 Assmptions clearly presented.\u00a0\u00a0",
+        "incorrect": "Task 2.2 You have selected your model without any logical reasoning. Assumptions not precise."
+    },
+    {
+        "question": "Q2.2 Gender Dummy Variable",
+        "correct": "Gender has been transformed to a new variable using dummy coding.",
+        "incorrect": "Gender should have transformed to a new variable using dummy coding."
+    },
+    {
+        "question": "Q2.2 Evidence of Model Building",
+        "correct": "The approch to model building clearly presented.",
+        "incorrect": "Model building steps are not shown/followed."
+    },
+    {
+        "question": "Q2.2 P-Value, Adjusted R Square, St error",
+        "correct": "\u00a0p-values, Adj R-squares, and standard errors produced.",
+        "incorrect": "In each model, building step consider p-values, Adj R-squares, and standard errors."
+    },
+    {
+        "question": "Q2.2 Final model",
+        "correct": "Interpretations Task 2.2 Describe here the reason for scatterplot analysis (determining the nature of bivariate relationships) and correlation analysis (magnitude of relationships). You have mentioned the 3 most important independent variables (e.g. performance rating, job satisfaction and job involvement) and the presence of linear relationship between variables.\n\n\u00a0Cut-off values regarding multi-collinearity should be reported (e.g. greater than 0.70 or 0.8).\u00a0 mention the names of possible multicollinear variables. No need to check normality here",
+        "incorrect": "Interpretations Task 2.2 Describe here the reason for scatterplot analysis (determining the nature of bivariate relationships) and correlation analysis (magnitude of relationships). You have mentioned the 3 most important independent variables (e.g. performance rating, job satisfaction and job involvement) and the presence of linear relationship between variables.\n\n\u00a0Cut-off values regarding multi-collinearity should be reported (e.g. greater than 0.70 or 0.8).\u00a0 mention the names of possible multicollinear variables. No need to check normality here"
+    },
+    {
+        "question": "Q2.3 Assumptions",
+        "correct": "Task 2.3: Investigated for all necessary assumptions including residual analysis.",
+        "incorrect": "Task 2.3: Should have investigated for all necessary assumptions such as residual analysis, and multi-collinearity detected."
+    },
+    {
+        "question": "Q2.3 Residual Analysis",
+        "correct": "Interpretation Task 2.3: You need to discuss model diagnosis. Under model diagnosis, you must discuss whether and how the key assumptions of linear regression are met. These include, Linear relationship, Homoscedasticity, and Normality of error terms, and independence of the errors particularly error variance of the variable \u2018years at company\u2019. Finally, you should also discuss presence of multivariate outliers (not univariate). You may add VIF as a post model diagnostic tool to check for multi-collinearity.\u00a0",
+        "incorrect": "Interpretation Task 2.3: You need to discuss model diagnosis. Under model diagnosis, you must discuss whether and how the key assumptions of linear regression are met. These include, Linear relationship, Homoscedasticity, and Normality of error terms, and independence of the errors particularly error variance of the variable \u2018years at company\u2019. Finally, you should also discuss presence of multivariate outliers (not univariate). You may add VIF as a post model diagnostic tool to check for multi-collinearity.\u00a0"
+    },
+    {
+        "question": "Q3 Assumptions",
+        "correct": "Task 3: Good Job !!!\u00a0 The best model derived at using appropriate statistical technique. Also the interaction plot clearly presented.",
+        "incorrect": "Task 3: The best model is not attained. Hence the interaction plot is not correct. You also need to perform a residual analysis for the interaction model correctly."
+    },
+    {
+        "question": "Q3 Interaction Term",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q3 Evidence of model Busilding",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q3 Interaction Plot",
+        "correct": "Interpretation Task 3: Good discussion given though the model estimated. You should provide some practical implications of these findings. Also, include discussion regarding residuals.",
+        "incorrect": "Interpretation Task 3: Good discussion given though the model estimated. You should provide some practical implications of these findings. Also, include discussion regarding residuals."
+    },
+    {
+        "question": "Q4\u00a0 Assumptions",
+        "correct": "Good Job.\u00a0",
+        "incorrect": "Task 4.1: You must convert and incorporate \u2018Job level\u2019 and \u2018Work-life Balance\u2019 as dummy variable. The best model is not attained."
+    },
+    {
+        "question": "Q4.1 Dummy variables",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q4.1\u00a0 Evidence of model building",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q4.1 Pseodo R Squre, Classification Table, C_Pro, ROC curve",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q4.1 Final Model",
+        "correct": "Task 4.1: Analysis is done correctly. Present the final model as well.\n\nInterpretation: Task 4.1: You must discuss the assumptions and techniques used, and/or the model building process to reach the final model.\u00a0 You have given insufficient explanations.\u00a0 In general, you should provide both practical and statistical significance. Practical Significance is mostly given. Under Statistical Significance, you should also provide explanation of the Chi-square test and statistical significance of individual IVs including interpretations.",
+        "incorrect": "Task 4.1: \nInterpretation: Task 4.1: You must discuss the assumptions and techniques used, and/or the model building process to reach the final model.\u00a0 You have given insufficient explanations.\u00a0 In general, you should provide both practical and statistical significance. Practical Significance is mostly given. Under Statistical Significance, you should also provide explanation of the Chi-square test and statistical significance of individual IVs including interpretations."
+    },
+    {
+        "question": "Q4.2 Model Building",
+        "correct": "Task 4.2 Excellent Job with Model Building",
+        "incorrect": "Task 4.2: The correct model is not used to calculate the correct predicted probabilities."
+    },
+    {
+        "question": "Q4.2 Probability Calculation",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q4.2Probability Plot",
+        "correct": "Task 4.2: The correct model is used to calculate the correct predicted probabilities.\n\nInterpretation Task 4.2: You tried to interpret the predicted probabilities. Provide practical implications of the analysis.",
+        "incorrect": null
+    },
+    {
+        "question": "Q5 Time Series Plot",
+        "correct": "Task 5:\u00a0 Good Job",
+        "incorrect": "Task 5: The trend line should have been Y = 11866079.54 - 10843.83X (R-Sq: 41.34%). Check for accuracy of the linear model by residual analysis. Calculate accuracy measures of the forecast by MAPE."
+    },
+    {
+        "question": "Q5 12 MA",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q5 Seasonal Indices",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q5 Depersonalised Series",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q5 Linear Trend Model",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q5 Residual Analysis",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q5 Forecast",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q5 Time series Plot with All series",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Q5 Accuracy Measure",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": null,
+        "correct": "Interpretation",
+        "incorrect": "Interpretation"
+    },
+    {
+        "question": "Task 1.1 Provide Overall Summary",
+        "correct": "Task 1.1",
+        "incorrect": "Task 1.1 In this section, key findings of Task 1 analysis should be discussed. With respect to summary statistics\u00a0 for \" \"Percentage Salary Hike\" should be shown. Related to attrition should have presented using % table and pie chart/barchart."
+    },
+    {
+        "question": "Task 1.2 Use of appropriate % and counts",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 2.1 Job Satisfaction",
+        "correct": "Task 2.1",
+        "incorrect": "Task 2.1: Error handling of satisfaction value 11 not discussed."
+    },
+    {
+        "question": "Task 2.1 Independent variables",
+        "correct": null,
+        "incorrect": "An overall summary of this step should be described here including, the reason for scatterplot analysis (determining the nature of bivariate relationships) and correlation analysis (magnitude of relationships)."
+    },
+    {
+        "question": "Form of relationships (Linear & non-linear)",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 2.1 Potential Multi Collineriaty",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 2.2 Assumptions and Techniques",
+        "correct": "Task 2.2:\u00a0",
+        "incorrect": "Task 2.2: You must follow either forward-looking/backward-looking/stepwise model building process.\u00a0 You should explain why and how many iterations were necessary to arrive at the final model. You must not drop more than one insignificant variable from the model one at a time. Discuss the p-Values, adj R-sq (not R-sq because different numbers of IV used), the standard error for exclusion/inclusion of predictors. You may make a summary table regarding the iterations."
+    },
+    {
+        "question": "Task 2.2 Comparison of Adjusted R2 and standard error",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "\u00a0Task 2.2 Age and Years at company (Significant effect)",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 2.2 Model with and without age and years at company (little effect on Adjusted R2 and standard error)",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 2.2 Interpretation of coefficients\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 2.3 Discussion of Assumptions",
+        "correct": "Task 2.3",
+        "incorrect": "Task2.3: You need to discuss the model diagnosis. Under model diagnosis, you must discuss whether and how the key assumptions of linear regression are met. These include Linear relationship, Homoscedasticity, and Normality of error terms, and independence of the errors particularly error variance of the variable \u2018years at the company\u2019. Finally, you should also discuss the presence of multivariate outliers (not univariate). You may add VIF as a post model diagnostic tool to check for multi-collinearity."
+    },
+    {
+        "question": "Task 2.3 Outliers",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 2.3 Years at company error variance",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 3 \u2022 Assumptions & Technique/Model building process/Logic\u00a0",
+        "correct": "Task 3",
+        "incorrect": "Task 3: . In this section, should clearly define variable roles including, independent variable, dependent variable, and moderation (interacting variable).You should provide some practical implications of these findings. Also, include discussion regarding residuals. Visualisation should be clearly discussed in this section."
+    },
+    {
+        "question": "\u2022 Interaction term \u2013Interpretation\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Interaction plot \u2013Interpretation\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Residual analysis\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 4.1 Assumptions and Techniques/ Model Building/Logic",
+        "correct": "Task 4.1:\u00a0",
+        "incorrect": "Task 4.1: You must discuss the assumptions and techniques used, and/or the model building process to reach the final model.\u00a0 You have given insufficient explanations.\u00a0 In general, you should provide both practical and statistical significance. Under Statistical Significance, you should also provide an explanation of the Chi-square test and statistical significance of individual IVs including interpretations."
+    },
+    {
+        "question": "Interpretation of classification table\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Interpretation of pseudo R-Sq and overall fit\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Interpretation of ROC curve\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Interpretation of regression results\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Interpretation of coefficients\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Reliability of model predictions\u00a0\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 4.2 Assumptions and Techniques/ Model Building/Logic",
+        "correct": "Task 4.2 : Why Multiplicative model should be used is discussed together with assumptions clearly.",
+        "incorrect": "Task 4.2 : Why Multiplicative model should be used or assumptions not discussed."
+    },
+    {
+        "question": "Interpretation of classification table\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Interpretation of pseudo R-Sq and overall fit\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Interpretation of probability plot",
+        "correct": "To arrive at practical conclusions, you need to determine at which point the predicted probabilities pass the cut-off value of 0.50 (or 50% chance).",
+        "incorrect": null
+    },
+    {
+        "question": "Reliability of model predictions",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 5 \u2022 Time series plot \u2013 Interpretation in terms of 4 components\u00a0",
+        "correct": "Task 5:",
+        "incorrect": "Task 5 : You should clearly explain why the Multiplicative Forecasting Model should be used for prediction. Since the line plot shows the presence of the seasonal component, therefore, a multiplicative time series should be used. Explain clearly why 12 Period Moving Average (not 4) is used instead of other smoothing methods. You should also explain why normalising indices was necessary (i.e., since the sum of averages did not add up to 12, we need to normalise the seasonal indices). Finally, you should evaluate the forecasting model using MAPE (i.e. average absolute predictive error one may commit when using the forecast model for predicting future Turn Over values)."
+    },
+    {
+        "question": "Task 5 Use of 12-MA period \u2013 Justifications\u00a0",
+        "correct": "Interpretation Task 5: You should clearly explain why Multiplicative Forecasting Model should be used for prediction. Since line plot shows the presence of seasonal component therefore, a multiplicative time series should be used.\u00a0 Finally, you should evaluate the forecasting model using MAPE (i.e. average absolute predictive error one may commit when using the forecast model for predicting future Turn Over values).\n\nReport Structure\n\nIntroduction: The introduction begins by highlighting the main purpose(s) of analysis and concludes by explaining the structure of the report (i.e., subsequent sections).\n\nIn conclusion, along with the key findings of analyses you should explain the main limitations.\n\nThe report would require few editing in order to be classified as professional. You are expected to attach all necessary analysis outputs in appendix.\n\n\u00a0\n\nAssignment planning and execution\n\nThe purpose of this practical task is to help you keep track of your progress with the assignment and submit it on time.\n\nGood to see that you have been proactive in planning and executing your assignment. You have clearly captured what help you sought to improve the quality of your assignment and learning. ",
+        "incorrect": "Interpretation Task 5: You should clearly explain why Multiplicative Forecasting Model should be used for prediction. Since line plot shows the presence of seasonal component therefore, a multiplicative time series should be used.\u00a0 Finally, you should evaluate the forecasting model using MAPE (i.e. average absolute predictive error one may commit when using the forecast model for predicting future Turn Over values).\n\nReport Structure\n\nIntroduction: The introduction begins by highlighting the main purpose(s) of analysis and concludes by explaining the structure of the report (i.e., subsequent sections).\n\nIn conclusion, along with the key findings of analyses you should explain the main limitations.\n\nThe report would require few editing in order to be classified as professional. You are expected to attach all necessary analysis outputs in appendix.\n\n\u00a0\n\nAssignment planning and execution\n\nThe purpose of this practical task is to help you keep track of your progress with the assignment and submit it on time.\n\nGood to see that you have been proactive in planning and executing your assignment. You have clearly captured what help you sought to improve the quality of your assignment and learning. "
+    },
+    {
+        "question": "Use of Multiplicative model \u2013 Justifications\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Logic/Forecast modelling \u2013 Explanations\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Seasonal indices - Interpretations\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Linear trend estimates \u2013 Residual analysis\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Accuracy measures - Interpretations\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Forecast values\u00a0\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Task 6 Introduction and conclusion",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Page numbers, table of contents, structure\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Appendices \u2013 Organisation of outputs\u00a0",
+        "correct": null,
+        "incorrect": null
+    },
+    {
+        "question": "Use of Language\u00a0\u00a0",
+        "correct": null,
+        "incorrect": null
+    }
+]
